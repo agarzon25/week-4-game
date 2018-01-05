@@ -1,0 +1,25 @@
+#icon1, #icon2, #icon3, #icon4  {
+	height: 50px;
+	width: 50px;
+}
+
+.container {
+	background-image: url("../images/tablet.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50% 100%;
+	height: 100%;
+	width: 100%;
+	padding-top: 45px;
+	padding-bottom: 40px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.container-table {
+    display: table;
+}
+
